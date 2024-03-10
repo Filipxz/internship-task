@@ -1,0 +1,6 @@
+Further data processing ideas:
+- Focus on better defining what is the definition of anomalie (work with the outliers )
+- Finding a pattern for hearth rate anomalies in subset_df dataframe 
+- Prepare a function to assign Heart_rhythm to a specyfic Heart_rate's types over time
+- Resample the data to a fixed time interval (I did not check it)
+- Handle missing and 0 hearth rate values, maybe there is also some kind of information in this values?
